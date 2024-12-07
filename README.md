@@ -23,6 +23,10 @@ This repository includes the following significant works:
    - **Introduction to K-Nearest Neighbors (KNN)**: A step-by-step guide to one of the simplest yet powerful ML algorithms.  
    - **Model Explainability**: Techniques for interpreting and understanding machine learning model decisions.  
 
+### 5. **[DS103] Cities at Meteorological Risk**
+   - An in-depth study on how meteorological risks affect cities, using machine learning and statistical techniques (regression and classification tasks) to identify            patterns and vulnerabilities. This project analyses factors like precipitation, temperature fluctuations, and wind exposure in urban areas.
+   - **Skills Highlighted**: Data preprocessing, risk analysis and predictive modeling.
+
 ## How This Repository Reflects My Academic Journey  
 Throughout my coursework, these projects have allowed me to:  
 - Develop a solid foundation in Python and data science methodologies.  
